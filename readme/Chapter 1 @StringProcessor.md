@@ -14,7 +14,7 @@ In this chapter, you will:
 - Discover how to use Aspect-Oriented Programming (AOP) to apply annotation rules.
 - See practical examples of integrating the annotation with DTOs and services.
 
-For a detailed walkthrough, check out the blog post [Introducing Custom Annotations: The Power of @StringProcessor in Spring Boot](insert-your-blog-link-here).
+For a detailed walkthrough, check out the blog post [Introducing Custom Annotations: The Power of @StringProcessor in Spring Boot](https://dev.to/parthbt143/introducing-custom-annotations-the-power-of-stringprocessor-in-spring-boot-31e9).
 
 ## Project Files
 
